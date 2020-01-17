@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pahlawan Ku</string>
+    <string name="KuisPahlawan">Aplikasi Untuk Belajar Mengenal Pahlawan Indonesia</string>
+    <string name="ButtonStart">Quis Pahlawan</string>
+    <string name="Biodata">Biodata Pahlawan</string>
+    <string name="About">Tentang</string>
+    <string name="version"></string>
+    <string name="IAKDescription">Aplikasi ini merupakan final project Matakuliah Pemrogranan Cilent Server UAY 2020</string>
+    <string name="nilai">NILAI</string>
+    <string name="score">50</string>
+    <string name="pembahasan">pembahasan</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="from">Asal</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
